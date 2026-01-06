@@ -100,12 +100,3 @@ DSR/
 ├── config.py               
 └── requirements.txt
 ```
-
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).
-
----
-*Note: This repository is anonymized for peer review.*
-
----
